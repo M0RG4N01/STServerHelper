@@ -1,0 +1,2 @@
+{"date":"2019-05-31 19:08:03,077", "level":"INFO", "event":"server_state", "value":"online", "port":10578 }
+{"date":"2019-05-31 19:08:03,078", "level":"INFO", "event":"server_state", "value":"started", "token":"123" }

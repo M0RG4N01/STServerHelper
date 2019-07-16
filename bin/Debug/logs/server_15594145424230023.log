@@ -1,0 +1,147 @@
+{"date":"2019-06-01 19:42:22,659", "level":"INFO", "event":"server_state", "value":"online", "port":10592 }
+{"date":"2019-06-01 19:42:22,660", "level":"INFO", "event":"server_state", "value":"started", "token":"" }
+{"date":"2019-06-01 19:44:18,939", "level":"INFO", "event":"connected", "connection_id":1 }
+{"date":"2019-06-01 19:44:18,945", "level":"INFO", "event":"hello_received", "client_protocol":3574881509, "server_protocol":3574881509 }
+{"date":"2019-06-01 19:44:19,132", "level":"INFO", "event":"hello", "connection_id":1, "name":"Jon Snow" }
+{"date":"2019-06-01 19:44:20,717", "level":"INFO", "event":"create_custom_npc", "connection_id":1, "player_name":"Jon Snow", "cell_name":"Skyrim" }
+{"date":"2019-06-01 19:44:20,717", "level":"DEBUG", "event":"add_container", "server_id":1, "is_actor":1 }
+{"date":"2019-06-01 19:44:23,321", "level":"INFO", "event":"create_common_npc", "name":"Worshipper", "ref_id":620536, "form_id":375053, "server_id":2, "host_connection_id":1, "health":50 }
+{"date":"2019-06-01 19:44:23,321", "level":"DEBUG", "event":"add_container", "server_id":2, "is_actor":1 }
+{"date":"2019-06-01 19:44:23,322", "level":"INFO", "event":"create_spawned_npc", "connection_id":1, "npc_name":"Elk", "cell_name":"Skyrim" }
+{"date":"2019-06-01 19:44:23,322", "level":"DEBUG", "event":"add_container", "server_id":3, "is_actor":1 }
+{"date":"2019-06-01 19:44:23,322", "level":"INFO", "event":"create_spawned_npc", "connection_id":1, "npc_name":"Elk", "cell_name":"Skyrim" }
+{"date":"2019-06-01 19:44:23,322", "level":"DEBUG", "event":"add_container", "server_id":4, "is_actor":1 }
+{"date":"2019-06-01 19:44:23,322", "level":"INFO", "event":"create_common_npc", "name":"Wolf", "ref_id":410566, "form_id":146110, "server_id":5, "host_connection_id":1, "health":22 }
+{"date":"2019-06-01 19:44:23,322", "level":"DEBUG", "event":"add_container", "server_id":5, "is_actor":1 }
+{"date":"2019-06-01 19:44:23,322", "level":"INFO", "event":"create_common_npc", "name":"Worshipper", "ref_id":620539, "form_id":375047, "server_id":6, "host_connection_id":1, "health":50 }
+{"date":"2019-06-01 19:44:23,322", "level":"DEBUG", "event":"add_container", "server_id":6, "is_actor":1 }
+{"date":"2019-06-01 19:44:23,322", "level":"INFO", "event":"create_unique_npc", "name":"Rayya", "ref_id":50352662, "form_id":50352661, "server_id":7, "host_connection_id":1, "health":403 }
+{"date":"2019-06-01 19:44:23,322", "level":"DEBUG", "event":"add_container", "server_id":7, "is_actor":1 }
+{"date":"2019-06-01 19:44:23,322", "level":"INFO", "event":"create_spawned_npc", "connection_id":1, "npc_name":"Mudcrab", "cell_name":"Skyrim" }
+{"date":"2019-06-01 19:44:23,322", "level":"DEBUG", "event":"add_container", "server_id":8, "is_actor":1 }
+{"date":"2019-06-01 19:44:23,322", "level":"INFO", "event":"create_common_npc", "name":"Wolf", "ref_id":410565, "form_id":146110, "server_id":9, "host_connection_id":1, "health":22 }
+{"date":"2019-06-01 19:44:23,322", "level":"DEBUG", "event":"add_container", "server_id":9, "is_actor":1 }
+{"date":"2019-06-01 19:44:23,322", "level":"INFO", "event":"create_common_npc", "name":"Wolf", "ref_id":410567, "form_id":146110, "server_id":10, "host_connection_id":1, "health":22 }
+{"date":"2019-06-01 19:44:23,322", "level":"DEBUG", "event":"add_container", "server_id":10, "is_actor":1 }
+{"date":"2019-06-01 19:44:23,322", "level":"INFO", "event":"create_spawned_npc", "connection_id":1, "npc_name":"Elk", "cell_name":"Skyrim" }
+{"date":"2019-06-01 19:44:23,322", "level":"DEBUG", "event":"add_container", "server_id":11, "is_actor":1 }
+{"date":"2019-06-01 19:44:23,322", "level":"INFO", "event":"create_common_npc", "name":"Horse", "ref_id":845423, "form_id":1089086, "server_id":12, "host_connection_id":1, "health":289 }
+{"date":"2019-06-01 19:44:23,322", "level":"DEBUG", "event":"add_container", "server_id":12, "is_actor":1 }
+{"date":"2019-06-01 19:44:23,322", "level":"INFO", "event":"create_spawned_npc", "connection_id":1, "npc_name":"Wolf", "cell_name":"Skyrim" }
+{"date":"2019-06-01 19:44:23,322", "level":"DEBUG", "event":"add_container", "server_id":13, "is_actor":1 }
+{"date":"2019-06-01 19:44:23,433", "level":"INFO", "event":"create_spawned_npc", "connection_id":1, "npc_name":"Cave Bear", "cell_name":"Skyrim" }
+{"date":"2019-06-01 19:44:23,433", "level":"DEBUG", "event":"add_container", "server_id":14, "is_actor":1 }
+{"date":"2019-06-01 19:44:23,433", "level":"INFO", "event":"create_spawned_npc", "connection_id":1, "npc_name":"Novice Conjurer", "cell_name":"Skyrim" }
+{"date":"2019-06-01 19:44:23,433", "level":"DEBUG", "event":"add_container", "server_id":15, "is_actor":1 }
+{"date":"2019-06-01 19:44:23,433", "level":"INFO", "event":"create_common_npc", "name":"Thalmor Soldier", "ref_id":620540, "form_id":620714, "server_id":16, "host_connection_id":1, "health":127 }
+{"date":"2019-06-01 19:44:23,433", "level":"DEBUG", "event":"add_container", "server_id":16, "is_actor":1 }
+{"date":"2019-06-01 19:44:23,433", "level":"INFO", "event":"create_common_npc", "name":"Worshipper", "ref_id":620537, "form_id":375095, "server_id":17, "host_connection_id":1, "health":50 }
+{"date":"2019-06-01 19:44:23,433", "level":"DEBUG", "event":"add_container", "server_id":17, "is_actor":1 }
+{"date":"2019-06-01 19:44:23,433", "level":"INFO", "event":"create_spawned_npc", "connection_id":1, "npc_name":"Wolf", "cell_name":"Skyrim" }
+{"date":"2019-06-01 19:44:23,433", "level":"DEBUG", "event":"add_container", "server_id":18, "is_actor":1 }
+{"date":"2019-06-01 19:44:23,433", "level":"INFO", "event":"create_common_npc", "name":"Worshipper", "ref_id":620538, "form_id":375047, "server_id":19, "host_connection_id":1, "health":50 }
+{"date":"2019-06-01 19:44:23,433", "level":"DEBUG", "event":"add_container", "server_id":19, "is_actor":1 }
+{"date":"2019-06-01 19:44:26,915", "level":"DEBUG", "event":"remove_npc", "server_id":2, "name":"Worshipper" }
+{"date":"2019-06-01 19:44:26,915", "level":"DEBUG", "event":"remove_npc", "server_id":3, "name":"Elk" }
+{"date":"2019-06-01 19:44:26,915", "level":"DEBUG", "event":"remove_npc", "server_id":4, "name":"Elk" }
+{"date":"2019-06-01 19:44:26,915", "level":"DEBUG", "event":"remove_npc", "server_id":5, "name":"Wolf" }
+{"date":"2019-06-01 19:44:26,915", "level":"DEBUG", "event":"remove_npc", "server_id":6, "name":"Worshipper" }
+{"date":"2019-06-01 19:44:26,915", "level":"DEBUG", "event":"remove_npc", "server_id":7, "name":"Rayya" }
+{"date":"2019-06-01 19:44:26,915", "level":"DEBUG", "event":"remove_npc", "server_id":8, "name":"Mudcrab" }
+{"date":"2019-06-01 19:44:26,915", "level":"DEBUG", "event":"remove_npc", "server_id":9, "name":"Wolf" }
+{"date":"2019-06-01 19:44:26,915", "level":"DEBUG", "event":"remove_npc", "server_id":10, "name":"Wolf" }
+{"date":"2019-06-01 19:44:26,915", "level":"DEBUG", "event":"remove_npc", "server_id":11, "name":"Elk" }
+{"date":"2019-06-01 19:44:26,915", "level":"DEBUG", "event":"remove_npc", "server_id":12, "name":"Horse" }
+{"date":"2019-06-01 19:44:26,915", "level":"DEBUG", "event":"remove_npc", "server_id":13, "name":"Wolf" }
+{"date":"2019-06-01 19:44:26,915", "level":"DEBUG", "event":"remove_npc", "server_id":14, "name":"Cave Bear" }
+{"date":"2019-06-01 19:44:26,915", "level":"DEBUG", "event":"remove_npc", "server_id":15, "name":"Novice Conjurer" }
+{"date":"2019-06-01 19:44:26,915", "level":"DEBUG", "event":"remove_npc", "server_id":16, "name":"Thalmor Soldier" }
+{"date":"2019-06-01 19:44:26,915", "level":"DEBUG", "event":"remove_npc", "server_id":17, "name":"Worshipper" }
+{"date":"2019-06-01 19:44:26,915", "level":"DEBUG", "event":"remove_npc", "server_id":18, "name":"Wolf" }
+{"date":"2019-06-01 19:44:26,915", "level":"DEBUG", "event":"remove_npc", "server_id":19, "name":"Worshipper" }
+{"date":"2019-06-01 19:44:26,915", "level":"INFO", "event":"npc_changed_cell", "server_id":1, "cell_name":"Lakeview Manor" }
+{"date":"2019-06-01 19:44:26,915", "level":"INFO", "event":"weather_receive", "form_id":77705, "connection_id":1 }
+{"date":"2019-06-01 19:44:26,915", "level":"INFO", "event":"register_player_weather", "form_id":77705, "connection_id":1 }
+{"date":"2019-06-01 19:44:37,682", "level":"INFO", "event":"npc_changed_cell", "server_id":1, "cell_name":"Skyrim" }
+{"date":"2019-06-01 19:44:37,682", "level":"INFO", "event":"weather_receive", "form_id":1090117, "connection_id":1 }
+{"date":"2019-06-01 19:44:37,682", "level":"INFO", "event":"register_player_weather", "form_id":1090117, "connection_id":1 }
+{"date":"2019-06-01 19:44:39,241", "level":"INFO", "event":"create_common_npc", "name":"Worshipper", "ref_id":620536, "form_id":375053, "server_id":20, "host_connection_id":1, "health":50 }
+{"date":"2019-06-01 19:44:39,241", "level":"DEBUG", "event":"add_container", "server_id":20, "is_actor":1 }
+{"date":"2019-06-01 19:44:39,241", "level":"INFO", "event":"create_spawned_npc", "connection_id":1, "npc_name":"Elk", "cell_name":"Skyrim" }
+{"date":"2019-06-01 19:44:39,241", "level":"DEBUG", "event":"add_container", "server_id":21, "is_actor":1 }
+{"date":"2019-06-01 19:44:39,241", "level":"INFO", "event":"create_spawned_npc", "connection_id":1, "npc_name":"Elk", "cell_name":"Skyrim" }
+{"date":"2019-06-01 19:44:39,241", "level":"DEBUG", "event":"add_container", "server_id":22, "is_actor":1 }
+{"date":"2019-06-01 19:44:39,241", "level":"INFO", "event":"create_common_npc", "name":"Wolf", "ref_id":410566, "form_id":146110, "server_id":23, "host_connection_id":1, "health":22 }
+{"date":"2019-06-01 19:44:39,241", "level":"DEBUG", "event":"add_container", "server_id":23, "is_actor":1 }
+{"date":"2019-06-01 19:44:39,241", "level":"INFO", "event":"create_common_npc", "name":"Worshipper", "ref_id":620539, "form_id":375047, "server_id":24, "host_connection_id":1, "health":50 }
+{"date":"2019-06-01 19:44:39,241", "level":"DEBUG", "event":"add_container", "server_id":24, "is_actor":1 }
+{"date":"2019-06-01 19:44:39,241", "level":"INFO", "event":"create_unique_npc", "name":"Rayya", "ref_id":50352662, "form_id":50352661, "server_id":25, "host_connection_id":1, "health":403 }
+{"date":"2019-06-01 19:44:39,241", "level":"DEBUG", "event":"add_container", "server_id":25, "is_actor":1 }
+{"date":"2019-06-01 19:44:39,335", "level":"INFO", "event":"create_spawned_npc", "connection_id":1, "npc_name":"Mudcrab", "cell_name":"Skyrim" }
+{"date":"2019-06-01 19:44:39,336", "level":"DEBUG", "event":"add_container", "server_id":26, "is_actor":1 }
+{"date":"2019-06-01 19:44:39,336", "level":"INFO", "event":"create_common_npc", "name":"Wolf", "ref_id":410565, "form_id":146110, "server_id":27, "host_connection_id":1, "health":22 }
+{"date":"2019-06-01 19:44:39,336", "level":"DEBUG", "event":"add_container", "server_id":27, "is_actor":1 }
+{"date":"2019-06-01 19:44:39,336", "level":"INFO", "event":"create_common_npc", "name":"Wolf", "ref_id":410567, "form_id":146110, "server_id":28, "host_connection_id":1, "health":22 }
+{"date":"2019-06-01 19:44:39,336", "level":"DEBUG", "event":"add_container", "server_id":28, "is_actor":1 }
+{"date":"2019-06-01 19:44:39,336", "level":"INFO", "event":"create_spawned_npc", "connection_id":1, "npc_name":"Elk", "cell_name":"Skyrim" }
+{"date":"2019-06-01 19:44:39,336", "level":"DEBUG", "event":"add_container", "server_id":29, "is_actor":1 }
+{"date":"2019-06-01 19:44:39,336", "level":"INFO", "event":"create_common_npc", "name":"Horse", "ref_id":845423, "form_id":1089086, "server_id":30, "host_connection_id":1, "health":289 }
+{"date":"2019-06-01 19:44:39,336", "level":"DEBUG", "event":"add_container", "server_id":30, "is_actor":1 }
+{"date":"2019-06-01 19:44:39,336", "level":"INFO", "event":"create_spawned_npc", "connection_id":1, "npc_name":"Wolf", "cell_name":"Skyrim" }
+{"date":"2019-06-01 19:44:39,336", "level":"DEBUG", "event":"add_container", "server_id":31, "is_actor":1 }
+{"date":"2019-06-01 19:44:39,336", "level":"INFO", "event":"create_spawned_npc", "connection_id":1, "npc_name":"Cave Bear", "cell_name":"Skyrim" }
+{"date":"2019-06-01 19:44:39,336", "level":"DEBUG", "event":"add_container", "server_id":32, "is_actor":1 }
+{"date":"2019-06-01 19:44:39,336", "level":"INFO", "event":"create_spawned_npc", "connection_id":1, "npc_name":"Novice Conjurer", "cell_name":"Skyrim" }
+{"date":"2019-06-01 19:44:39,336", "level":"DEBUG", "event":"add_container", "server_id":33, "is_actor":1 }
+{"date":"2019-06-01 19:44:39,336", "level":"INFO", "event":"create_common_npc", "name":"Thalmor Soldier", "ref_id":620540, "form_id":620714, "server_id":34, "host_connection_id":1, "health":127 }
+{"date":"2019-06-01 19:44:39,336", "level":"DEBUG", "event":"add_container", "server_id":34, "is_actor":1 }
+{"date":"2019-06-01 19:44:39,336", "level":"INFO", "event":"create_common_npc", "name":"Worshipper", "ref_id":620537, "form_id":375095, "server_id":35, "host_connection_id":1, "health":50 }
+{"date":"2019-06-01 19:44:39,336", "level":"DEBUG", "event":"add_container", "server_id":35, "is_actor":1 }
+{"date":"2019-06-01 19:44:39,336", "level":"INFO", "event":"create_spawned_npc", "connection_id":1, "npc_name":"Wolf", "cell_name":"Skyrim" }
+{"date":"2019-06-01 19:44:39,336", "level":"DEBUG", "event":"add_container", "server_id":36, "is_actor":1 }
+{"date":"2019-06-01 19:44:39,336", "level":"INFO", "event":"create_common_npc", "name":"Worshipper", "ref_id":620538, "form_id":375047, "server_id":37, "host_connection_id":1, "health":50 }
+{"date":"2019-06-01 19:44:39,336", "level":"DEBUG", "event":"add_container", "server_id":37, "is_actor":1 }
+{"date":"2019-06-01 19:44:40,764", "level":"INFO", "event":"create_spawned_npc", "connection_id":1, "npc_name":"Elk", "cell_name":"Skyrim" }
+{"date":"2019-06-01 19:44:40,764", "level":"DEBUG", "event":"add_container", "server_id":38, "is_actor":1 }
+{"date":"2019-06-01 19:45:00,222", "level":"INFO", "event":"weather_receive", "form_id":1090117, "connection_id":1 }
+{"date":"2019-06-01 19:45:00,222", "level":"INFO", "event":"register_player_weather", "form_id":1090117, "connection_id":1 }
+{"date":"2019-06-01 19:45:03,559", "level":"DEBUG", "event":"remove_npc", "server_id":1, "name":"Jon Snow" }
+{"date":"2019-06-01 19:45:03,559", "level":"DEBUG", "event":"remove_npc", "server_id":37, "name":"Worshipper" }
+{"date":"2019-06-01 19:45:03,559", "level":"DEBUG", "event":"remove_npc", "server_id":20, "name":"Worshipper" }
+{"date":"2019-06-01 19:45:03,559", "level":"DEBUG", "event":"remove_npc", "server_id":7, "name":"Rayya" }
+{"date":"2019-06-01 19:45:03,559", "level":"DEBUG", "event":"remove_npc", "server_id":33, "name":"Novice Conjurer" }
+{"date":"2019-06-01 19:45:03,559", "level":"DEBUG", "event":"remove_npc", "server_id":16, "name":"Thalmor Soldier" }
+{"date":"2019-06-01 19:45:03,559", "level":"DEBUG", "event":"remove_npc", "server_id":3, "name":"Elk" }
+{"date":"2019-06-01 19:45:03,559", "level":"DEBUG", "event":"remove_npc", "server_id":28, "name":"Wolf" }
+{"date":"2019-06-01 19:45:03,559", "level":"DEBUG", "event":"remove_npc", "server_id":15, "name":"Novice Conjurer" }
+{"date":"2019-06-01 19:45:03,559", "level":"DEBUG", "event":"remove_npc", "server_id":24, "name":"Worshipper" }
+{"date":"2019-06-01 19:45:03,559", "level":"DEBUG", "event":"remove_npc", "server_id":11, "name":"Elk" }
+{"date":"2019-06-01 19:45:03,559", "level":"DEBUG", "event":"remove_npc", "server_id":36, "name":"Wolf" }
+{"date":"2019-06-01 19:45:03,559", "level":"DEBUG", "event":"remove_npc", "server_id":23, "name":"Wolf" }
+{"date":"2019-06-01 19:45:03,559", "level":"DEBUG", "event":"remove_npc", "server_id":6, "name":"Worshipper" }
+{"date":"2019-06-01 19:45:03,559", "level":"DEBUG", "event":"remove_npc", "server_id":32, "name":"Cave Bear" }
+{"date":"2019-06-01 19:45:03,559", "level":"DEBUG", "event":"remove_npc", "server_id":19, "name":"Worshipper" }
+{"date":"2019-06-01 19:45:03,559", "level":"DEBUG", "event":"remove_npc", "server_id":2, "name":"Worshipper" }
+{"date":"2019-06-01 19:45:03,559", "level":"DEBUG", "event":"remove_npc", "server_id":31, "name":"Wolf" }
+{"date":"2019-06-01 19:45:03,560", "level":"DEBUG", "event":"remove_npc", "server_id":14, "name":"Cave Bear" }
+{"date":"2019-06-01 19:45:03,560", "level":"DEBUG", "event":"remove_npc", "server_id":27, "name":"Wolf" }
+{"date":"2019-06-01 19:45:03,560", "level":"DEBUG", "event":"remove_npc", "server_id":10, "name":"Wolf" }
+{"date":"2019-06-01 19:45:03,560", "level":"DEBUG", "event":"remove_npc", "server_id":5, "name":"Wolf" }
+{"date":"2019-06-01 19:45:03,560", "level":"DEBUG", "event":"remove_npc", "server_id":22, "name":"Elk" }
+{"date":"2019-06-01 19:45:03,560", "level":"DEBUG", "event":"remove_npc", "server_id":1, "name":"Jon Snow" }
+{"date":"2019-06-01 19:45:03,560", "level":"DEBUG", "event":"remove_npc", "server_id":35, "name":"Worshipper" }
+{"date":"2019-06-01 19:45:03,560", "level":"DEBUG", "event":"remove_npc", "server_id":18, "name":"Wolf" }
+{"date":"2019-06-01 19:45:03,560", "level":"DEBUG", "event":"remove_npc", "server_id":13, "name":"Wolf" }
+{"date":"2019-06-01 19:45:03,560", "level":"DEBUG", "event":"remove_npc", "server_id":30, "name":"Horse" }
+{"date":"2019-06-01 19:45:03,560", "level":"DEBUG", "event":"remove_npc", "server_id":9, "name":"Wolf" }
+{"date":"2019-06-01 19:45:03,560", "level":"DEBUG", "event":"remove_npc", "server_id":26, "name":"Mudcrab" }
+{"date":"2019-06-01 19:45:03,560", "level":"DEBUG", "event":"remove_npc", "server_id":21, "name":"Elk" }
+{"date":"2019-06-01 19:45:03,560", "level":"DEBUG", "event":"remove_npc", "server_id":4, "name":"Elk" }
+{"date":"2019-06-01 19:45:03,560", "level":"DEBUG", "event":"remove_npc", "server_id":38, "name":"Elk" }
+{"date":"2019-06-01 19:45:03,560", "level":"DEBUG", "event":"remove_npc", "server_id":17, "name":"Worshipper" }
+{"date":"2019-06-01 19:45:03,560", "level":"DEBUG", "event":"remove_npc", "server_id":34, "name":"Thalmor Soldier" }
+{"date":"2019-06-01 19:45:03,560", "level":"DEBUG", "event":"remove_npc", "server_id":29, "name":"Elk" }
+{"date":"2019-06-01 19:45:03,560", "level":"DEBUG", "event":"remove_npc", "server_id":12, "name":"Horse" }
+{"date":"2019-06-01 19:45:03,560", "level":"DEBUG", "event":"remove_npc", "server_id":25, "name":"Rayya" }
+{"date":"2019-06-01 19:45:03,560", "level":"DEBUG", "event":"remove_npc", "server_id":8, "name":"Mudcrab" }
+{"date":"2019-06-01 19:45:03,566", "level":"INFO", "event":"disconnected", "connection_id":1 }
